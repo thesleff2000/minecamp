@@ -25,6 +25,8 @@ $Mods = @(
   @('embeddium-0.3.18.1+mc1.19.2.jar', 'https://cdn.modrinth.com/data/sk9rgfiA/versions/AYqEbec0/embeddium-0.3.18.1%2Bmc1.19.2.jar', '33d88ab9f2bb73801d53461d0b7f7149ddae531373b4746c05259a4608e3115d7966a8643bac4c76e66a1cbc39d6f3a4929bdd95237bb79a6274ac16c6f53b46'),
   # 셰이더 로더. Embeddium이 rubidium 호환 ID를 제공해서 Rubidium 없이 동작
   @('oculus-mc1.19.2-1.6.9a.jar', 'https://cdn.modrinth.com/data/GchcoXML/versions/Mw8aFpWF/oculus-mc1.19.2-1.6.9a.jar', 'b59fad480777d0d4d9f51f9eb0d148a9a0776c76069b1e6211371c266ab3ac516d8f2c4e0bb223bce73e73c983072c700a241bde82be2cffcb9252b1db598c8a'),
+  # JEI에 UU 물질/플라즈마 제작 페이지 추가
+  @('ic2cuumatter-1.19.2-1.3.2.jar', 'https://cdn.modrinth.com/data/FOVCOVzb/versions/NXWGaEaH/ic2cuumatter-1.19.2-1.3.2.jar', '30bb962a849059517d1fa2ae8647c5f50a9717e48d91a4a9ab13c7e18dc03d5be1eea77f379c4ac38b40eb9102e2415bddd337efecae01d5b057eedc1d5e6de8'),
   @('zume-1.2.2.jar', 'https://cdn.modrinth.com/data/o6qsdrrQ/versions/Rh2ImJ86/zume-1.2.2.jar', '9803fcf070327ed40316f8323ad7de83977a4ff8dc928c892836c8f49a9be3da6e9282aa85bf8bcf3467c4339f3d16dad5ec92d1a2e9bc9fc10bddba1ffc1190'),
   @('entityculling-forge-1.6.1-mc1.19.2.jar', 'https://cdn.modrinth.com/data/NNAgCjsB/versions/WR6z6MYC/entityculling-forge-1.6.1-mc1.19.2.jar', 'ecd71617e1b72cfcfade5c61b121e67b3c5f26a43a9521122209f0242e580020916202665517f4b95a4a5b84794d80d61009c6333c1e1a49e180de9da21dc881')
 )
